@@ -60,3 +60,34 @@ To https://github.com/mecperes/UC7trio.git
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 Aluno@ESN914D1233556 MINGW64 /d/Peres/Projeto em trio (main)
+
+COLABORADOR 2: IGOR CARBONARI SILVA
+
+CT WEB FULL STACK@ESN914D1233553 MINGW64 /d/Igor Carbonari Silva/Projeto dos cria/UC7trio (main)
+$ git config --global user.name "Igor Carbonari Silva"
+
+CT WEB FULL STACK@ESN914D1233553 MINGW64 /d/Igor Carbonari Silva/Projeto dos cria/UC7trio (main)
+$ git config --global user.email "igorcarbosilva@hotmail.com"
+
+CT WEB FULL STACK@ESN914D1233553 MINGW64 /d/Igor Carbonari Silva/Projeto dos cria/UC7trio (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Projetao dos cria.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+CT WEB FULL STACK@ESN914D1233553 MINGW64 /d/Igor Carbonari Silva/Projeto dos cria/UC7trio (main)
+$ git add .
+
+CT WEB FULL STACK@ESN914D1233553 MINGW64 /d/Igor Carbonari Silva/Projeto dos cria/UC7trio (main)
+$ git commit -m "eu Igor coloquei meu nome na lista"
+[main 7a4a806] eu Igor coloquei meu nome na lista
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+CT WEB FULL STACK@ESN914D1233553 MINGW64 /d/Igor Carbonari Silva/Projeto dos cria/UC7trio (main)
+$
